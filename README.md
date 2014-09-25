@@ -1,7 +1,7 @@
-respin
+remastersys
 ===========
 
-Respin Tool for Backing Up and Cloning Your Ubuntu System
+Remastersys Tool for Backup Your Ubuntu System
 
 Confirmed to work on the following distros:
 
